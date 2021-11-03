@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# 소프트웨어전공
 <!--
 **kimmina888/kimmina888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
