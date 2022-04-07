@@ -1,6 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=white&fontColor=black&text=MY_INFO&fontSize=25)
      <h2 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Certificate</h2>
-    <p><img src  = "https://docs.microsoft.com/ko-kr/media/learn/certification/badges/mta-badge.svg"/> Cospro 2 - cpp, python, c </p>
+   <p> <p><img style="size: 20px;" src="https://docs.microsoft.com/ko-kr/media/learn/certification/badges/mta-badge.svg"/> Cospro 2 - cpp, python, c </p> Cospro 2 - cpp, python, c </p>
     <br>
     <p style="font-style: normal; font-size: medium;">MY LOVE</p>
     <table>
