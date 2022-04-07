@@ -3,5 +3,11 @@
 <p>MTA JAVA, Cospro 2 - cpp, python, c </p>
 <br>
 <p>LOVE</p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPP&logoColor=white"/></a>&nbs
+<table>
+	<tr> 
+		<td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp </td> 
+		<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPP&logoColor=white"/></a>&nbs</td> 
+	</tr>
+</table>
+
+
