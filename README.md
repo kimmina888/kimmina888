@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=white&fontColor=black&text=KIMMINA&fontSize=25)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=white&fontColor=black&text=MY_INFO&fontSize=25)
     <h2>certificate</h2>
     <p>MTA JAVA, Cospro 2 - cpp, python, c </p>
     <br>
