@@ -1,5 +1,5 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=white&fontColor=black&text=MY_INFO&fontSize=25)
-    <h2>certificate</h2>
+     <h2 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Certificate</h2>
     <p>MTA JAVA, Cospro 2 - cpp, python, c </p>
     <br>
     <p style="font-style: normal; font-size: medium;">MY LOVE</p>
