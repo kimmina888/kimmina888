@@ -5,7 +5,7 @@
 	Cospro 2 - cpp, python, c 
    </p>
     <br>
-    <p style="font-style: normal; font-size: medium;">MY LOVE</p>
+    <p style="font-style: normal; font-size: medium;">Language</p>
     <table>
 	<tr style="border: none;"> 
 		<td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a></td> 
