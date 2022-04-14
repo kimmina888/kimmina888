@@ -1,4 +1,4 @@
-[ ![header](https://capsule-render.vercel.app/api?type=waving&color=white&fontColor=black&text=MY_INFO&fontSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=white&fontColor=black&text=Kimmina&fontSize=25)
  <h2 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Certificate</h2>
  <p> 
 	<!-- 	<p><img src="https://docs.microsoft.com/ko-kr/media/learn/certification/badges/mta-badge.svg"/>  -->
