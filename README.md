@@ -5,7 +5,8 @@
 	Cospro 2 - cpp, python, c 
 	Mos - JAVA
    </p>
-    <br>
+   <p>
+	 <br>
     <p style="font-style: normal; font-size: medium;">Language</p>
     <br>
     <table>
@@ -14,6 +15,7 @@
 		<td><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPP&logoColor=black"/></a></td> 
 	</tr>
     </table>
+	</p>
     <p>my project</p>
 	<br>
 	<p>Diesland</p>
