@@ -3,6 +3,7 @@
    <p> 
 	<!-- 	<p><img src="https://docs.microsoft.com/ko-kr/media/learn/certification/badges/mta-badge.svg"/>  -->
 	Cospro 2 - cpp, python, c 
+	Mos - JAVA
    </p>
     <br>
     <p style="font-style: normal; font-size: medium;">Language</p>
