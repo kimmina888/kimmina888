@@ -9,7 +9,6 @@
 <body>
 	<h2 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Certificate</h2>
  	<p> 
-	<!-- 	<p><img src="https://docs.microsoft.com/ko-kr/media/learn/certification/badges/mta-badge.svg"/>  -->
 		<p>
 			Cospro 2 - cpp, python, c 
 			Mos - JAVA
