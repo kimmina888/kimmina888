@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=white&fontColor=black&text=Kimmina&fontSize=25)
-![아누라그의 GitHub 통계](https://github-readme-stats.vercel.app/api ?username=kimmina888 )](https://github.com/anuraghazra/github-readme-stats)
+!(https://github-readme-stats.vercel.app/api ?username=kimmina888 )](https://github.com/anuraghazra/github-readme-stats)
 <h2 style="font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Certificate</h2>
  <p> 
 	<p>
